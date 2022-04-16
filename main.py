@@ -1,7 +1,5 @@
 """
-Python Data Structures - A Game-Based Approach
-Stack challenge
-Robin Andrews - https://compucademy.net/
+Reversing a string using stack
 """
 
 import stack
